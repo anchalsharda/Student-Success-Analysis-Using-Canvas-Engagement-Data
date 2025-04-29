@@ -2,12 +2,18 @@
 Conducted a comprehensive analysis of student success in Accounting courses for Fall 2022, focusing on the impact of engagement through Canvas interactions on academic performance. This study aimed to evaluate how different levels of student engagement, such as time spent on course materials and participation in discussions, correlate with DFW (Drop, Fail, Withdraw) rates.
 
 **Tools Used:**
-Advanced Microsoft Excel: Utilized for data analysis, transformation, and visualization.
+
+***Advanced Microsoft Excel: U**tilized for data analysis, transformation, and visualization.
+
 ***Power Query**: For efficient data extraction, transformation, and loading (ETL).
+
 ***Pivot Tables**: To summarize, explore, and analyze large datasets interactively.
+
 ***What-If Analysis**: Including Data Tables and Scenario Manager to model hypothetical business scenarios.
+
 ***Conditional Formatting & Dynamic Dashboards**: For enhanced visual insights.
-VLOOKUP, INDEX-MATCH, IFERROR, and Nested Functions: For robust data manipulation and accuracy checks.
+
+***VLOOKUP, INDEX-MATCH, IFERROR, and Nested Functions: **For robust data manipulation and accuracy checks.
 
 **🧠 Key Responsibilities & Skills Demonstrated:**
 **ETL & Data Consolidation:**

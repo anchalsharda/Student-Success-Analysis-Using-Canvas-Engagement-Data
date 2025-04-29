@@ -1,6 +1,14 @@
 **🔍 Project Overview:**
 Conducted a comprehensive analysis of student success in Accounting courses for Fall 2022, focusing on the impact of engagement through Canvas interactions on academic performance. This study aimed to evaluate how different levels of student engagement, such as time spent on course materials and participation in discussions, correlate with DFW (Drop, Fail, Withdraw) rates.
 
+**Tools Used:**
+Advanced Microsoft Excel: Utilized for data analysis, transformation, and visualization.
+***Power Query**: For efficient data extraction, transformation, and loading (ETL).
+***Pivot Tables**: To summarize, explore, and analyze large datasets interactively.
+***What-If Analysis**: Including Data Tables and Scenario Manager to model hypothetical business scenarios.
+***Conditional Formatting & Dynamic Dashboards**: For enhanced visual insights.
+VLOOKUP, INDEX-MATCH, IFERROR, and Nested Functions: For robust data manipulation and accuracy checks.
+
 **🧠 Key Responsibilities & Skills Demonstrated:**
 **ETL & Data Consolidation:**
 Extracted, transformed, and loaded Canvas Interaction Data, Banner Grade Data, and Canvas Gradebook Data to simulate a comprehensive student success database.
@@ -28,7 +36,7 @@ Demonstrated the full ETL and analysis process, from raw data extraction to stra
 Strengthened the decision-making framework for improving student engagement and academic performance.
 #DataAnalytics #ETL #CanvasData #StudentSuccess #EngagementAnalysis #AcademicPerformance #BusinessIntelligence #DFWAnalysis #DataCleaning #StakeholderInsights #HigherEdStrategy #StudentEngagement #Retention
 
-Note:
+**Note:**
 This repository contains the analysis of pharmacy store performance. The dataset for this analysis is too large to be included directly in the repository. You can download the data from the following Google Drive link:
 
 [Download Data] https://drive.google.com/drive/folders/1PORNpNjlOO60-Y9v5Y6u6z5QKvfgDUpZ?usp=sharing

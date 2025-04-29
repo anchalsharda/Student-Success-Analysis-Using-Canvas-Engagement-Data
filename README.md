@@ -1,20 +1,6 @@
 **🔍 Project Overview:**
 Conducted a comprehensive analysis of student success in Accounting courses for Fall 2022, focusing on the impact of engagement through Canvas interactions on academic performance. This study aimed to evaluate how different levels of student engagement, such as time spent on course materials and participation in discussions, correlate with DFW (Drop, Fail, Withdraw) rates.
 
-**Tools Used:**
-
-**Advanced Microsoft Excel: U**tilized for data analysis, transformation, and visualization.
-
-**Power Query**: For efficient data extraction, transformation, and loading (ETL).
-
-**Pivot Tables**: To summarize, explore, and analyze large datasets interactively.
-
-**What-If Analysis**: Including Data Tables and Scenario Manager to model hypothetical business scenarios.
-
-**Conditional Formatting & Dynamic Dashboards**: For enhanced visual insights.
-
-**VLOOKUP, INDEX-MATCH, IFERROR, and Nested Functions**: For robust data manipulation and accuracy checks.
-
 **🧠 Key Responsibilities & Skills Demonstrated:**
 **ETL & Data Consolidation:**
 Extracted, transformed, and loaded Canvas Interaction Data, Banner Grade Data, and Canvas Gradebook Data to simulate a comprehensive student success database.
@@ -40,6 +26,15 @@ Delivered a stakeholder-ready analysis linking Canvas engagement to student succ
 Provided actionable insights to help design early interventions and refine course strategies for better student retention.
 Demonstrated the full ETL and analysis process, from raw data extraction to strategic recommendations.
 Strengthened the decision-making framework for improving student engagement and academic performance.
+
+**💻 Tools Used:**
+*Advanced Microsoft Excel: Utilized for data analysis, transformation, and visualization.
+*Power Query: For efficient data extraction, transformation, and loading (ETL).
+*Pivot Tables: To summarize, explore, and analyze large datasets interactively.
+*What-If Analysis: Including Data Tables and Scenario Manager to model hypothetical business scenarios.
+*Conditional Formatting & Dynamic Dashboards: For enhanced visual insights.
+*VLOOKUP, INDEX-MATCH, IFERROR, and Nested Functions: For robust data manipulation and accuracy checks.
+
 #DataAnalytics #ETL #CanvasData #StudentSuccess #EngagementAnalysis #AcademicPerformance #BusinessIntelligence #DFWAnalysis #DataCleaning #StakeholderInsights #HigherEdStrategy #StudentEngagement #Retention
 
 **Note:**

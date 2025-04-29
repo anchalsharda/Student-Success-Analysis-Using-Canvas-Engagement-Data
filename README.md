@@ -13,7 +13,7 @@ Conducted a comprehensive analysis of student success in Accounting courses for 
 
 ***Conditional Formatting & Dynamic Dashboards**: For enhanced visual insights.
 
-***VLOOKUP, INDEX-MATCH, IFERROR, and Nested Functions: **For robust data manipulation and accuracy checks.
+***VLOOKUP, INDEX-MATCH, IFERROR, and Nested Functions**: For robust data manipulation and accuracy checks.
 
 **🧠 Key Responsibilities & Skills Demonstrated:**
 **ETL & Data Consolidation:**
